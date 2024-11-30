@@ -34,6 +34,7 @@ test("ships the reference media and downloadable models", async () => {
     "../public/assets/class-workshop-01.png",
     "../public/assets/ohlone-cad-club.png",
     "../public/assets/kaavin-prasanna.png",
+    "../public/assets/dr-ramchandani.png",
     "../public/assets/button-hook-zipper-pull.stl",
     "../public/assets/book-page-holder.stl",
   ];
